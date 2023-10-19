@@ -3,3 +3,6 @@
 .container{
   background-image: linear-gradient(black,grey);
 }
+table{
+  border:2px solid black;
+}
